@@ -1,0 +1,22 @@
+{
+  "name": "docker_kubernets_cicd_test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasiruWickramasinghe/Docker_Kubernets_CICD_Test_App.git"
+  },
+  "author": "yasiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasiruWickramasinghe/Docker_Kubernets_CICD_Test_App/issues"
+  },
+  "homepage": "https://github.com/YasiruWickramasinghe/Docker_Kubernets_CICD_Test_App#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
